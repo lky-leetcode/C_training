@@ -26,7 +26,7 @@
 
 |題號|題目內容 | 描述 or tag or 知識點 |
 |---|------- | ------------------- |
-
+|1-5|[recursive and backtracking](./chapter2/recursive_backtracking.md)|各種經典遞歸模板|
 
 
 ## 第三章 - linked list
